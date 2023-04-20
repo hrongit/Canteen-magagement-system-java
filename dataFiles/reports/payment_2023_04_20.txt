@@ -1,0 +1,4 @@
+*********** Payment List (2023_04_20) ***********
+Order ID:1000  StaffName:Hritik Raj                      Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:Rs100.0(1)

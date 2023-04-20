@@ -1,0 +1,4 @@
+*********** Order List (2023_04_20) ***********
+Order ID:   1  StaffName:Ambreesh Rai                    Total:Rs20.50 
+-------------------------------------------------------
+Total sales:Rs20.5(1)  Canceled:Rs0.0(0)
