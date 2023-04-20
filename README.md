@@ -41,7 +41,7 @@ Note: This project requires Java JDK 8 or later to be installed on your system.
 
 ## Demo
 
-![Output Screenshot](why11.jpg "Output Screenshot")
+![Output Screenshot](images/why11.jpg "Output Screenshot")
 
 
 
